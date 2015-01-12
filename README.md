@@ -1,4 +1,4 @@
-Masters Project
+Introduction to Concurrent Programming
 ===============
 
 ## Course Folder
