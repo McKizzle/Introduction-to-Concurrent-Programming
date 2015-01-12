@@ -1,0 +1,5 @@
+*.o
+scan
+radix_sort
+a.out
+
